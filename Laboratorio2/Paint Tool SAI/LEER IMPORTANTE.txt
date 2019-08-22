@@ -1,0 +1,1 @@
+No borres, edites o cambies el nombre de ningún archivo. Eso podría causar que algunas funciones del programa no funcionen correctamente.

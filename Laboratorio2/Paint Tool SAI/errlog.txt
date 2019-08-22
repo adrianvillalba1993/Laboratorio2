@@ -1,0 +1,205 @@
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ Service Pack 1
+CPU No.00    = AMD C-50 Processor
+CPU No.01    = AMD C-50 Processor
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 1770MB
+Total VAS    = 4095MB
+Avail VAS    = 3449MB
+
+TID Main     = 000014D8
+TID Splash   = 000010FC
+TID Except   = 00001638
+TID Setup    = 00000B44
+TID Async    = 000017FC
+TID Thumb    = 00000000
+TID WinTab   = 00001108
+
+TID SPad AWB = 00001648
+TID CV00 AWB = 0000085C
+
+========================================================================
+
+-- 2015-08-09 22:57:17 ---------------------------------------
+ThreadID          = 00000E68
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0FDFA104
+ECX = 77453DCF
+EDX = 245DE8B8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 246DEE40
+ESP = 246DEDB0
+EIP = 00406759
+
+-- 2015-08-09 22:57:17 ---------------------------------------
+ThreadID          = 00000E68
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 0FDFA104
+ECX = 77453DCF
+EDX = 245DE8B8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 246DEE40
+ESP = 246DEDB0
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ Service Pack 1
+CPU No.00    = AMD C-50 Processor
+CPU No.01    = AMD C-50 Processor
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 1770MB
+Total VAS    = 4095MB
+Avail VAS    = 3435MB
+
+TID Main     = 00001574
+TID Splash   = 00000CDC
+TID Except   = 0000083C
+TID Setup    = 00001540
+TID Async    = 00001078
+TID Thumb    = 00000000
+TID WinTab   = 00000F80
+
+TID SPad AWB = 000005A0
+TID CV00 AWB = 0000182C
+
+========================================================================
+
+-- 2015-08-10 13:02:08 ---------------------------------------
+ThreadID          = 00001048
+
+OperationCategory = 00000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 244D6194
+ECX = 77453DCF
+EDX = 245FE8B8
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 246FEE40
+ESP = 246FEDB0
+EIP = 00406759
+
+========================================================================
+Sai Version  = 1.1.0
+Win Version  = hV‡ Service Pack 1
+CPU No.00    = AMD C-50 Processor
+CPU No.01    = AMD C-50 Processor
+WOW64        = Yes
+VA Map Size  = 65536
+Page Size    = 4096
+Total Memory = 1770MB
+Total VAS    = 4095MB
+Avail VAS    = 3460MB
+
+TID Main     = 0000123C
+TID Splash   = 000005B8
+TID Except   = 00001234
+TID Setup    = 000008D0
+TID Async    = 0000085C
+TID Thumb    = 00000000
+TID WinTab   = 000010A4
+
+TID SPad AWB = 00000B6C
+TID CV00 AWB = 0000129C
+
+========================================================================
+
+-- 2015-08-11 13:33:31 ---------------------------------------
+ThreadID          = 0000123C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 7724DB38
+ECX = 77253DCF
+EDX = 0008CA08
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018CB28
+ESP = 0018CA98
+EIP = 00406759
+
+-- 2015-08-11 13:33:40 ---------------------------------------
+ThreadID          = 0000123C
+
+OperationCategory = 80000000
+OperationType     = 00000000
+OperationState    = 00000000
+
+ExceptionCode     = C0000005 (EXCEPTION_ACCESS_VIOLATION)
+ExceptionAddress  = 00406759
+ExceptionFlags    = 00000000
+NumberParameters  = 00000002
+
+ExceptionInformation:
+  00000001
+  00000110
+
+EAX = 00000000
+EBX = 7724DB38
+ECX = 77253DCF
+EDX = 0008CA08
+ESI = FFFFFFFF
+EDI = 00000000
+EBP = 0018CB28
+ESP = 0018CA98
+EIP = 00406759
+
