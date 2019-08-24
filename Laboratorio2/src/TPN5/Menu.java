@@ -75,7 +75,10 @@ public class Menu {
                 System.out.println("ha decidido cerrar el programa");
                 System.exit(0);
                 break;
-        }
+            default:
+                System.out.println("error:valor ingresado incorrecto");
+                opcion(cuenta);
+}
     }
     public void mostrar(CuentaCorriente cuenta){
         System.out.println(cuenta.toString());
