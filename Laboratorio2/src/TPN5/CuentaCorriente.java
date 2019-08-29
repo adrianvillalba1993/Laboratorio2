@@ -36,8 +36,9 @@ public class CuentaCorriente {
     public void devolver(){
         if(devolucion == 0){
             System.out.println("error: no fue retirado dinero o el valor ingresado fue cero");
-        }
+        }else{
         ingresarDinero(devolucion);
+        }
     }
 
     public String getNombre() {
