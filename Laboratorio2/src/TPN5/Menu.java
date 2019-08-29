@@ -20,7 +20,12 @@ public class Menu {
         System.out.println("1-crear cuenta\n2-elegir cuenta\n3-ingresar dinero\n4-retirar dinero\n5-devolver dinero a cuenta\n6-transferir dinero a otra cuenta\n7-mostrar\n8-salir");
         Scanner teclado = new Scanner(System.in);
         System.out.println("elegir una opcion:");
+        boolean item = teclado.nextInt();
+        if(item){
         opcion = teclado.nextInt();
+        }else{
+        opcion = 0;
+        }
         switch(opcion){
             case 1:
                     if (cuenta[this.valor] == null) {
@@ -78,6 +83,7 @@ public class Menu {
             default:
                 System.out.println("error:valor ingresado incorrecto");
                 opcion(cuenta);
+                break;
 }
     }
     public void mostrar(CuentaCorriente cuenta){
