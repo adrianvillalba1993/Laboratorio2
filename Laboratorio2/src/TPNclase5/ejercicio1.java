@@ -1,6 +1,4 @@
-package TPN5;
-
-import java.util.Scanner;
+package TPNclase5;
 
 /**
  * Created by adrian on 22/08/2019.

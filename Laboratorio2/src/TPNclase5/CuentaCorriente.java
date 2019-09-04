@@ -1,4 +1,4 @@
-package TPN5;
+package TPNclase5;
 
 import java.util.Random;
 
