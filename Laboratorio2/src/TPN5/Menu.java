@@ -34,9 +34,9 @@ public class Menu {
                         int valor;
                         Scanner nuevo = new Scanner(System.in);
                         System.out.println("nombre de la facultad:");
-                        nombre = teclado.nextLine();
+                        nombre = nuevo.nextLine();
                         System.out.println("cantidad de estudiantes:");
-                        valor = teclado.nextInt();
+                        valor = nuevo.nextInt();
                         facultades[i] = new Facultad(nombre,valor);
                         opcion();
                     }
@@ -70,7 +70,7 @@ public class Menu {
             case 5:
                 for(int i=0;i<facultades.length;i++){
                     if(facultades[i+1] == null){
-                        facultades[i].getNombre();
+                        System.out.println("el nombre de la facultad es: "+facultades[i].getNombre());
                         opcion();
                     }
                 }
