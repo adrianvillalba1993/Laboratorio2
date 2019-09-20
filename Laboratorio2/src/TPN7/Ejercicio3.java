@@ -25,6 +25,8 @@ public class Ejercicio3 {
         } catch (InputMismatchException e) {
             System.out.println("error: debe ingresar numeros enteros");
            ejercicio3();
+        }finally{
+        teclado.close();
         }
     }
 
