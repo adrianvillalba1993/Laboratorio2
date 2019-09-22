@@ -101,6 +101,8 @@ public class Contra {
                     mayu++;
                 }else if(contra[i].charAt(j) == contra[i].toLowerCase().charAt(j)){
                     minu++;
+                }else{
+
                 }
 
                 /*else if(contra[i].charAt(k) == numero.charAt(j)){
