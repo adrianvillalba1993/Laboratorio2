@@ -22,7 +22,7 @@ public class Cine {
 
         try{
 
-            teclado.close();
+
             for (int i = 0 ; i<espectadores.length;i++){
                 Scanner sc = new Scanner(System.in);
                 System.out.println("ingresar nombre:");
@@ -41,18 +41,23 @@ public class Cine {
             System.out.println("ERROR EN EL INGRESO DE DATOS");
         }
 
+
         Salas sala01 = new Salas(3,"jocker");
         sala01.setEspectadores(espectadores);
         sala01.getEspectadores();
+        System.out.println("**Espectadores**");
+        System.out.println(sala01.getEspectadores());
 
         Acomodadores acomodador = new Acomodadores("adrian",26);
         acomodador.setSala(sala01);
         acomodador.setSueldo(50000);
-        acomodador.toString();
+        System.out.println("**Acomodadores**");
+        System.out.println(acomodador.toString());
 
         Empleados empleado = new Empleados("Pedro",30);
         empleado.setSueldo(20000);
-        empleado.toString();
+        System.out.println("**Empleados**");
+        System.out.println(empleado.toString());
     }
 
 

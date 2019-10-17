@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="392d7141-a8b9-4e8b-90fe-6f0a09552299" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TFI01/Acomodadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TFI01/Cine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TFI01/Empleados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TFI01/Espectadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TFI01/ParaAcomodadores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TFI01/Personas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TFI01/Salas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TFI01/Cine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TFI01/Cine.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
