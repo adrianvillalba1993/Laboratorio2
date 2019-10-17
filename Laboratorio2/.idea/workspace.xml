@@ -2,41 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="392d7141-a8b9-4e8b-90fe-6f0a09552299" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/TPN9/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/Acomodadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/Cine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/Empleados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/Espectadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/ParaAcomodadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/Personas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TFI01/Salas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN1/ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN2/ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN2/ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN3/ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN3/ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN3/ejercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN3/ejercicio4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN3/ejercicio5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN4/CuentaCorriente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN4/UsoCuenta.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN5/Estudiante.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN5/Facultad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN5/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN5/UsoFacultad.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN6/Contra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN6/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN6Rehecho/Contra.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN6Rehecho/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN7/Ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN7/Ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN7/Ejercicio3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN7/Error.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN8/Coche.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN8/Ejercicio1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN8/Ejercicio2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN8/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN8/Moto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPN8/Vehiculo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPNclase5/CuentaCorriente.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPNclase5/Menu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Laboratorio2/TPNclase5/ejercicio1.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +57,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Cine">
+    <configuration name="Cine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TFI01.Cine" />
+      <module name="Laboratorio2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TFI01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TPN8.Ejercicio1" />
       <module name="Laboratorio2" />
@@ -130,19 +116,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="TPN9.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TPN6.Main" />
-      <module name="Laboratorio2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TPN6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -203,19 +176,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Main (1)" />
       <item itemvalue="Application.Ejercicio1" />
       <item itemvalue="Application.Ejercicio2" />
       <item itemvalue="Application.Main (2)" />
+      <item itemvalue="Application.Cine" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cine" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Ejercicio2" />
         <item itemvalue="Application.Ejercicio1" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
