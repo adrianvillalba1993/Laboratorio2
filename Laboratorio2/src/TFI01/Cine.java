@@ -22,7 +22,11 @@ public class Cine {
 
         try{
 
+<<<<<<< HEAD
 
+=======
+            
+>>>>>>> 45b04197f3c615dabcb1fb60596183afdf79bd11
             for (int i = 0 ; i<espectadores.length;i++){
                 Scanner sc = new Scanner(System.in);
                 System.out.println("ingresar nombre:");
