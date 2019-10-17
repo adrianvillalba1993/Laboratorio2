@@ -22,7 +22,7 @@ public class Cine {
 
         try{
 
-            teclado.close();
+            
             for (int i = 0 ; i<espectadores.length;i++){
                 Scanner sc = new Scanner(System.in);
                 System.out.println("ingresar nombre:");
